@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "c07f",
+      "name": "syam",
+      "email": "syam@gmail.com",
+      "password": "sai"
+    },
+    {
+      "id": "d5b7",
+      "name": "jameela",
+      "email": "jameela@gmail.com",
+      "password": "jameela"
+    },
+    {
+      "id": "6ce6",
+      "name": "as",
+      "email": "as",
+      "password": "sai"
+    },
+    {
+      "id": "824e",
+      "email": "as",
+      "password": "as"
+    }
+  ]
+}
